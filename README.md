@@ -1,4 +1,4 @@
-# Battery_Test
+# Battery Test
 Battery stat logger for Playdate.
 Logs system reported battery % and voltage to a .csv file, along with discharge rates.
 
