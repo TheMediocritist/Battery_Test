@@ -1,0 +1,7 @@
+name=Battery Test
+author=TheMediocritist
+description=Display and log battery charge/discharge stats.
+bundleID=com.yourcompany.TemplateGame
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
