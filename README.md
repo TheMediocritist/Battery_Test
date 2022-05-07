@@ -6,9 +6,10 @@ Logs system reported battery % and voltage to a .csv file, along with discharge 
 
 ## Description
 What it says above.
-Not tested on device.
+Not tested on device. Whatever happens, don't blame me. If it doesn't work, how about you fix it?
 
-To do
+## To do
 * clean up
 * add selectable CPU load
 * fix graphics so they work when charging (negative discharge)
+* get better hobbies
