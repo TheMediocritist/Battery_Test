@@ -12,4 +12,5 @@ Not tested on device. Whatever happens, don't blame me. If it doesn't work, how 
 * clean up
 * add selectable CPU load
 * fix graphics so they work when charging (negative discharge)
+* turn "ma_" fields into moving average instead of full average
 * get better hobbies
